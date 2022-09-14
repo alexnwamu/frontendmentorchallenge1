@@ -2,3 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+
+@media (min-width: 1024px) {
+    .imager{
+    height: 80vh;
+}
+}
